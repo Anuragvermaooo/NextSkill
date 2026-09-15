@@ -1,0 +1,8 @@
+Flask
+SQLAlchemy
+python-dotenv
+PyPDF2
+python-docx
+requests
+psycopg[binary]
+gunicorn

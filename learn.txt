@@ -1,0 +1,8 @@
+venv
+
+all projects same packages
+
+A > Flask 2
+B flask 3
+
+with venv
